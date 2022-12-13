@@ -1,0 +1,52 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.section {
+	justify-content:center;
+}
+.container {
+	width:30%;
+}
+.icon {
+	display:flex;
+	justify-content:center;
+}
+.image {
+position:relative;
+}	
+.col {
+	width:30%;
+	position:absolute;
+	font-size:20px;
+	background-color:#73667987;
+	text-align:center;
+	left:7%;
+	top:80%;
+	
+}
+h1 {
+	padding:10px;
+}
+h4 {
+	padding:5px;
+}
+i  {
+	padding:10px;
+	cursor:pointer;
+   font-size:40px;
+}
+.twitter:hover {
+	color:#2fb2de;
+}
+.facebook:hover {
+	color:#2e6edb;
+}
+.instagram:hover {
+	color:#ff3399;
+}
+.linkedin:hover {
+	color:#0066cc;
+}
+}
